@@ -1,14 +1,5 @@
 
-```Skills``` 
-
-C++ • Succinct data structures • OpenMP • Python (NumPy, PyTorch, pyhmmer) • HMMs & Viterbi • Beam search • Graph algorithms • Alignment algorithms • HPC • Neural networks • Abstract algebra
-
-```Languages```
-
-Azerbaijani (native) • English (C1/C2) • Russian (C1/C2) • German (B2) • French (B1/B2)
-
-``` Selected projects & publications ```
-
+#### Selected projects & publications
 - **MCAAT 2.0** – Spacer ordering and phage detection in metagenomic data (paper in progress) → [GitHub](https://github.com/RNABioInfo/mcaat)
   - _MCAAT 2.0 enumerates long paths in de Bruijn graphs using beam search for phage sequence recovery_ 
   - _Region where the beam search starts is nearby the CRISPR Array cluster_
@@ -24,6 +15,10 @@ Azerbaijani (native) • English (C1/C2) • Russian (C1/C2) • German (B2) •
   - _99 %+ recovery at 2 % deletion-substitution noise (benchmarks in repo)_
   - The project is inspired by the [DNAStoralator](https://github.com/gadihh/DNAStoralator.git).
 
+#### Skills
+C++ • Succinct data structures • OpenMP • Python (NumPy, PyTorch, pyhmmer) • HMMs & Viterbi • Beam search • Graph algorithms • Alignment algorithms • HPC • Neural networks • Abstract algebra
 
+#### Languages
+Azerbaijani (native) • English (C1/C2) • Russian (C1/C2) • German (B2) • French (B1/B2)
 
  
