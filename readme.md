@@ -1,4 +1,5 @@
-`#### Skills
+```
+#### Skills
 C++ • Succinct data structures • OpenMP • Python (NumPy, PyTorch, pyhmmer) • HMMs & Viterbi • Beam search • Graph algorithms • Alignment algorithms • HPC • Neural networks • Abstract algebra
 
 
@@ -10,4 +11,4 @@ C++ • Succinct data structures • OpenMP • Python (NumPy, PyTorch, pyhmmer)
 - **metaTopoGraph** – extracts de Bruijn graph topology features - planned to train an ML model on graph topology →[GitHub](https://github.com/feeka/metaTopoGraph/tree/main)
 - **Master’s thesis (2020)** – Cyclic codes for error detection in DNA storage → [PDF](https://feeka.github.io/cv/assets/mt_dna_storage.pdf) • [GitHub](https://github.com/feeka/mt_dna_as_storage.git)
 - **Study project (2019)** – Reed–Solomon codes & finite-field implementations → [PDF](https://feeka.github.io/cv/assets/study_project.pdf) • [GitHub](https://github.com/feeka/reed_solomon_codes.git)
-`
+```
